@@ -25,3 +25,4 @@ if (number.Length == 5)
 } else {
     Console.WriteLine("Число не пятизначное");
 }
+ 
